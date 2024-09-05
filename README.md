@@ -1,3 +1,3 @@
-# Space Invaders - Java Implementation
+# Pong Game - Java Implementation
 
-This is a simple Java implementation of the classic arcade game **Space Invaders**. The game features a spaceship that can move left and right, fire projectiles, and battle waves of alien invaders. The objective is to defeat all the aliens while avoiding being hit by their projectiles.
+This project is a simple implementation of the classic Pong game in Java. The game features two paddles and a ball, with the goal of bouncing the ball back and forth between the paddles. Players score when the opponent fails to return the ball.
